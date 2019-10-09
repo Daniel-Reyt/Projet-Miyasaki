@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JavaScript-modules-diagram</ID>
+  <OriginalElement>/home/uha40/Bureau/Projet Miyasaki/html/ApiReprise.html</OriginalElement>
+  <nodes>
+    <node x="80.0" y="122.0">/home/uha40/Bureau/Projet Miyasaki/html/ApiReprise.html</node>
+    <node x="48.0" y="270.0">/home/uha40/Bureau/Projet Miyasaki/java/Api_Reprise.js</node>
+    <node x="228.0" y="55.0">/home/uha40/Bureau/Projet Miyasaki/html/style1.css</node>
+    <node x="0.0" y="0.0">/home/uha40/Bureau/Projet Miyasaki/image/totoro2.png</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="/home/uha40/Bureau/Projet Miyasaki/html/ApiReprise.html" target="/home/uha40/Bureau/Projet Miyasaki/html/style1.css">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="/home/uha40/Bureau/Projet Miyasaki/html/ApiReprise.html" target="/home/uha40/Bureau/Projet Miyasaki/image/totoro2.png">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="/home/uha40/Bureau/Projet Miyasaki/html/ApiReprise.html" target="/home/uha40/Bureau/Projet Miyasaki/java/Api_Reprise.js">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Orthogonal" zoom="1.0" x="181.5" y="148.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>All</Category>
+  </Categories>
+  <VISIBILITY>Details</VISIBILITY>
+</Diagram>
+
